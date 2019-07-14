@@ -1,0 +1,12 @@
+/*.row { border-style: solid !important; }
+.col { border-style: dashed !important; }*/
+
+.start-logo {
+    width: 100% !important;
+    max-width: 500px !important;
+}
+
+.start-btn {
+    width: 100% !important;
+    max-width: 250px !important;
+}
